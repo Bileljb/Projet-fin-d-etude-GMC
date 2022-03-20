@@ -1,0 +1,5 @@
+export const  GET_CARDS = "GET_CARDS"
+export const TOGGLE_FALSE = "TOGGLE_FALSE"
+export const TOGGLE_TRUE = "TOGGLE_TRUE"
+export const GET_CARD = "GET_CARD"
+export const  GET_ALL_CARDS = "GET_ALL_CARDS"

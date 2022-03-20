@@ -1,0 +1,5 @@
+export const SIGNUP = 'SIGNUP'
+export const FAIL   = 'FAIL'
+export const SIGNIN = 'SIGNIN'
+export const GET_ME = 'GET_ME'
+export const LOGOUT = 'LOGOUT'
